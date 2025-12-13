@@ -6,6 +6,7 @@
 
 - TypesScript（JavaScript）
 - C#
+- Linux
 
 ---
 
