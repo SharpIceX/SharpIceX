@@ -14,10 +14,8 @@
 ## 🛠 技术栈
 
 - Linux
-- TypesScript（JavaScript）
-- NUXT.js
-- Vue.js
-- Node.js
+- TypesScript、JavaScript、Node.js
+- Nuxt.js、Vue.js
 - Vite.js、Webpack、Rollup.js
 - C#（掐头去尾不要中间）
 - Python（掐头去尾不要中间）
