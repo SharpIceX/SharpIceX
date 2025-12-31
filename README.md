@@ -39,5 +39,5 @@
 |        ThaumaturgySpectacle 世界观项目         | 🟢 进行中 |
 | Todd's Avali Lore Guide V1.7 SE 简体中文本地化 | 🟢 进行中 |
 |     CustomPlayerModels Mod 简体中文本地化      | 🟡 跟进中 |
-|                   Curasea-氧                   | 🔵 准备中 |
+|                   Curasea-碳                   | 🔵 准备中 |
 |           KDE Project 简体中文本地化           |  🔴 推迟  |
