@@ -9,6 +9,11 @@
 **Two 锟斤拷 clasped firm within my hands, I shout the frantic refrain “烫烫烫”;**
 **Upon a thousand 屯屯屯 blooms I stride, and laugh to see the world go 锘锘锘.**
 
+**一位工程师走进咖啡馆点了一份炒面，咖啡馆崩溃了**
+**An engineer walked into a café and ordered fried noodles—the café crashed.**
+
+**memcpy(0xDEADBEEF, &some_variable, sizeof(int))**
+
 ## 🔗 相关链接
 
 - 🌬️ [个人主页](https://sharpice.top)
