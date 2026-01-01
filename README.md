@@ -4,6 +4,8 @@
 🧭我来自中国，我叫**锐冰**，也可以叫我**SharpIce**。
 ⚡️我是一名开源社区的贡献者，喜欢可爱的艺术作品和技术相关的事物。
 
+---
+
 **手持两把锟斤拷，口中疾呼烫烫烫；脚踏千朵屯屯屯，笑看万物锘锘锘。**
 
 **Two 锟斤拷 clasped firm within my hands, I shout the frantic refrain “烫烫烫”;**
@@ -14,6 +16,8 @@
 **An engineer walked into a café and ordered fried noodles—the café crashed.**
 
 **memcpy(0xDEADBEEF, &some_variable, sizeof(int))**
+
+---
 
 ## 🔗 相关链接
 
