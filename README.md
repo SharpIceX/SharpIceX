@@ -36,10 +36,10 @@ go 锘锘锘.**
 
 ---
 
-## 联系我（Find Me At）
+## 💬 联系我（Find Me At）
 
-- 🌬️ [个人主页](https://sharpice.top)
-- 💬 Discord：`.sharpice`（注意前面有个英文的句号）
+- [个人主页（My Home）](https://sharpice.top)
+- Discord：`.sharpice`（注意开头有个英文的句号）（Note the period at the beginning）
 
 ---
 
