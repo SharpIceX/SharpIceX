@@ -60,8 +60,7 @@ go 锘锘锘.**
 |                      计划                      |      状态       |
 | :--------------------------------------------: | :-------------: |
 |        ThaumaturgySpectacle 世界观项目         | 🟢 In Progress  |
-| Todd's Avali Lore Guide V1.7 SE 简体中文本地化 | 🟢 In Progress  |
-|                   Curasea-碳                   | 🟢 In Progress  |
+| Todd's Avali Lore Guide V1.7 SE 简体中文本地化 | 🟢 In Progress  ||
 |     CustomPlayerModels Mod 简体中文本地化      | 🟡 Following Up |
 |           KDE Project 简体中文本地化           |  🔴 Postponed   |
 
