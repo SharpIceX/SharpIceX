@@ -53,7 +53,3 @@ and laugh to see the world go 锘锘锘.
 
 An engineer walked into a café and ordered fried noodles—the café crashed.
 ```
-
-```c
-memcpy(0xDEADBEEF, &some_variable, sizeof(int))
-```
