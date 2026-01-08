@@ -35,6 +35,7 @@ cute artwork and all things tech.
 | ThaumaturgySpectacle Worldbuilding Project  | 🟢 In Progress  |
 | Todd's Avali Lore Guide V1.7 简体中文本地化 | 🟢 In Progress  |
 |    CustomPlayerModels Mod 简体中文本地化    | 🟡 Following Up |
+|         Open Character License 1.0          |    🟣 Draft     |
 |         KDE Project 简体中文本地化          |  🔴 Postponed   |
 
 </div>
