@@ -1,7 +1,9 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 👋 Welcome to my GitHub profile!
+
 🧭 I'm from China—**锐冰** is my Chinese name, and **SharpIce** is my English name.
+
 ⚡️ I'm an open-source contributor who loves cute artwork and all things tech.
 
 ---
