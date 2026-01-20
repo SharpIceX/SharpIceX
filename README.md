@@ -1,4 +1,13 @@
-<!-- markdownlint-disable MD033 MD041 -->
+<!-- markdownlint-disable MD033 MD041 MD045 -->
+
+<a href="https://github.com/SharpIceX">
+  <img height="200" align="center" src="./generate/status.svg" />
+</a>
+<a href="https://github.com/SharpIceX">
+  <img height="200" align="center" src="./generate/language.svg" />
+</a>
+
+---
 
 👋 Welcome to my GitHub profile!
 

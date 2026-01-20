@@ -1,4 +1,4 @@
-name: Update README cards
+name: 更新 Github 卡片
 
 on:
     schedule:
@@ -6,8 +6,11 @@ on:
     workflow_dispatch:
 
 jobs:
-    build:
+    generate:
         runs-on: ubuntu-latest
+        permissions:
+            contents: write
+
         steps:
             - name: 迁出代码
               uses: actions/checkout@v4
