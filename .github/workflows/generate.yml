@@ -1,0 +1,43 @@
+name: Update README cards
+
+on:
+    schedule:
+        - cron: "0 21 * * *"
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: 迁出代码
+              uses: actions/checkout@v4
+
+            - name: 生成语言卡片
+              uses: readme-tools/github-readme-stats-action@v1
+              with:
+                  card: top-langs
+                  options: username=${{ github.repository_owner }}&hide_border=true&layout=compact&langs_count=6&theme=radical&card_width=350&hide=ejs&exclude_repo=End
+                  path: generate/language.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: 生成 Github 状态卡片
+              uses: readme-tools/github-readme-stats-action@v1
+              with:
+                  card: stats
+                  options: username=${{ github.repository_owner }}&hide_border=true&show_icons=true&theme=radical&hide_title=true
+                  path: generate/status.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: 提交变更
+              run: |
+                  git config user.name "github-actions"
+                  git config user.email "github-actions@users.noreply.github.com"
+                  git add profile/language.svg profile/status.svg
+
+                  # 检查是否有任意一个文件变化
+                  if ! git diff --quiet HEAD -- profile/language.svg profile/status.svg; then
+                      git commit -m "Update README cards"
+                      git push
+                  else
+                      echo "No changes in cards. Skipping commit."
+                  fi
