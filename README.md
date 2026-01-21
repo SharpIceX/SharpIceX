@@ -19,12 +19,15 @@
 
 ## 🛠 Tech Stack
 
-- Linux (Intermediate)
-- TypesScript/JavaScript、Node.js (Intermediate)
-- Nuxt.js、Vue.js (Intermediate)
-- C# (Competent)
-- Python (Competent)
-- Java (Competent)
+### Professional / Intermediate
+- Languages: TypeScript, JavaScript, Node.js
+- Frameworks: Nuxt.js, Vue.js
+- OS: Linux
+
+### Competent / Familiar
+- C#
+- Java
+- Python
 
 ---
 
