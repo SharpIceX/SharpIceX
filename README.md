@@ -57,6 +57,8 @@
 ---
 
 ```text
+Boss told me to disconnect the internet, so I grabbed a pair of scissors and went for it. Now I’m fired. Anyone know why?
+
 手持两把锟斤拷，口中疾呼烫烫烫；脚踏千朵屯屯屯，笑看万物锘锘锘。
 
 Two 锟斤拷 clasped firm within my hands,
