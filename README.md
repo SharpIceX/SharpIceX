@@ -14,7 +14,7 @@
 
 🧭 I'm from China—**锐冰** is my Chinese name, and **SharpIce** is my English name.
 
-⚡️ I'm an open-source contributor who loves cute artwork and all things tech.
+⚡️ I'm an open-source volunteer who loves cute artwork and all things tech.
 
 ---
 
