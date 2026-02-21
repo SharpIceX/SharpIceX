@@ -57,6 +57,18 @@
 
 ---
 
+## 🔐 Verification Fingerprints
+
+### JAR Signing (Keystore)
+
+- KeySTore SHA-1: `0F:68:6D:99:D2:17:BC:4F:AF:29:61:F1:28:EA:20:E5:C0:DC:F5:F8`
+- KeySTore SHA-256: `98:53:9C:BB:1C:C6:D7:E9:70:C7:4A:AA:E2:E7:F7:90:3F:66:85:21:5B:07:6A:7E:20:E4:5F:FD:29:A4:87:2C`
+
+### GnuPG / PGP
+
+- Fingerprint: `368D2B2EFB114C9D28576F01E33A3550961E333C`
+- Public Key: [github.com/sharpIceX.gpg](https://github.com/sharpIceX.gpg)
+
 ```text
 手持两把锟斤拷，口中疾呼烫烫烫；脚踏千朵屯屯屯，笑看万物锘锘锘。
 
