@@ -30,6 +30,9 @@
 - Java
 - Python
 
+### Newbie
+- Kotlin
+
 ---
 
 ## 💬 Find Me At
