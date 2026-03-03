@@ -37,7 +37,7 @@
 
 ## 💬 Find Me At
 
-- [My Home](https://sharpice.top)
+- [My Website](https://sharpice.top)
 - Discord: `.sharpice`(Note the period at the beginning)
 
 ---
