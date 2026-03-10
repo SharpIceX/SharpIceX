@@ -2,12 +2,14 @@
 
 `Boss told me to disconnect the internet, so I grabbed a pair of scissors and went for it. Now I’m fired. Anyone know why?`
 
-<a href="https://github.com/SharpIceX">
-  <img height="200" align="center" src="./generate/status.svg" />
-</a>
-<a href="https://github.com/SharpIceX">
-  <img height="200" align="center" src="./generate/language.svg" />
-</a>
+<p>
+    <a href="https://github.com/SharpIceX">
+      <img height="200" align="center" src="./generate/status.svg" />
+      </a>
+    <a href="https://github.com/SharpIceX">
+      <img height="200" align="center" src="./generate/language.svg" />
+      </a>
+</p>
 
 ---
 
@@ -42,7 +44,7 @@
 ## 💬 Find Me At
 
 - [My Website](https://sharpice.top)
-- Discord: `.sharpice`(Note the period at the beginning)
+- Discord: `.sharpice`**(Note the period at the beginning)** or [clicl hare](https://discord.com/users/650534063492431891)
 
 ---
 
@@ -71,10 +73,10 @@
 
 ## 🔐 Verification Fingerprints
 
-### JAR Signing (Keystore)
+### JAR Signing (KeyStore)
 
-- KeySTore SHA-1: `0F:68:6D:99:D2:17:BC:4F:AF:29:61:F1:28:EA:20:E5:C0:DC:F5:F8`
-- KeySTore SHA-256: `98:53:9C:BB:1C:C6:D7:E9:70:C7:4A:AA:E2:E7:F7:90:3F:66:85:21:5B:07:6A:7E:20:E4:5F:FD:29:A4:87:2C`
+- KeyStore SHA-1: `0F:68:6D:99:D2:17:BC:4F:AF:29:61:F1:28:EA:20:E5:C0:DC:F5:F8`
+- KeyStore SHA-256: `98:53:9C:BB:1C:C6:D7:E9:70:C7:4A:AA:E2:E7:F7:90:3F:66:85:21:5B:07:6A:7E:20:E4:5F:FD:29:A4:87:2C`
 
 ### GnuPG / PGP
 
