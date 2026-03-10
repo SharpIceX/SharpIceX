@@ -2,7 +2,7 @@
 
 `Boss told me to disconnect the internet, so I grabbed a pair of scissors and went for it. Now I’m fired. Anyone know why?`
 
-<p>
+<p align="center">
     <a href="https://github.com/SharpIceX">
       <img height="200" align="center" src="./generate/status.svg" />
       </a>
@@ -39,12 +39,16 @@
 
 - Kotlin
 
+### Grave Property
+
+- Lua
+
 ---
 
 ## 💬 Find Me At
 
 - [My Website](https://sharpice.top)
-- Discord: `.sharpice`**(Note the period at the beginning)** or [clicl hare](https://discord.com/users/650534063492431891)
+- Discord: `.sharpice`**(Note the period at the beginning)** or [click here to discord app](https://discord.com/users/650534063492431891)
 
 ---
 
