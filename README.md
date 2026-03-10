@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 MD045 -->
+
 `Boss told me to disconnect the internet, so I grabbed a pair of scissors and went for it. Now I’m fired. Anyone know why?`
 
 <a href="https://github.com/SharpIceX">
@@ -21,16 +22,19 @@
 ## 🛠 Tech Stack
 
 ### Professional / Intermediate
+
 - Languages: TypeScript, JavaScript, Node.js
 - Frameworks: Nuxt.js, Vue.js
 - OS: Linux
 
 ### Competent / Familiar
+
 - C#
 - Java
 - Python
 
 ### Newbie
+
 - Kotlin
 
 ---
@@ -52,9 +56,14 @@
 | :-----------------------------------------: | :-------------: |
 | ThaumaturgySpectacle Worldbuilding Project  | 🟢 In Progress  |
 | Todd's Avali Lore Guide V1.7 简体中文本地化 | 🟢 In Progress  |
+|                 Nuxt Nexus                  | 🟢 In Progress  |
 |    CustomPlayerModels Mod 简体中文本地化    | 🟡 Following Up |
-|         Open Character License 1.0          |    🟣 Draft     |
+| Minecraft IceAndFire ATM Compatibility Mod  | 🟡 Following Up |
+|        Minecraft Avali Variants Mod         |    ⚪ Draft     |
+|         Open Character License 1.0          |    ⚪ Draft     |
 |         KDE Project 简体中文本地化          |  🔴 Postponed   |
+|           OpenStarbound Compiler            | 🔘 Personal Use |
+|         Huawei Hi3660 Kernel LON-HM         | 🔘 Personal Use |
 
 </div>
 
