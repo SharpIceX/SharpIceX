@@ -1,7 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 MD045 -->
 
-`Boss told me to disconnect the internet, so I grabbed a pair of scissors and went for it. Now I’m fired. Anyone know why?`
-
 <p align="center">
     <a href="https://github.com/SharpIceX">
       <img height="200" align="center" src="./generate/status.svg" />
@@ -98,4 +96,6 @@ and laugh to see the world go 锘锘锘.
 一位工程师走进咖啡馆点了一份炒面，咖啡馆崩溃了
 
 An engineer walked into a café and ordered fried noodles—the café crashed.
+
+Boss told me to disconnect the internet, so I grabbed a pair of scissors and went for it. Now I’m fired. Anyone know why?
 ```
