@@ -66,8 +66,6 @@
 |        Minecraft Avali Variants Mod         |    ⚪ Draft     |
 |         Open Character License 1.0          |    ⚪ Draft     |
 |         KDE Project 简体中文本地化          |  🔴 Postponed   |
-|           OpenStarbound Compiler            | 🔘 Personal Use |
-|         Huawei Hi3660 Kernel LON-HM         | 🔘 Personal Use |
 
 </div>
 
