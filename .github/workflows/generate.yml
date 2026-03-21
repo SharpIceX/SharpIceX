@@ -43,7 +43,7 @@ jobs:
               run: |
                   git config user.name "github-actions"
                   git config user.email "github-actions@users.noreply.github.com"
-                  git add generate/language.svg generate/status.svg
+                  git add generate/*.svg
 
                   # 检查是否有任意一个文件变化
                   if ! git diff --quiet HEAD -- generate/language.svg generate/status.svg; then
