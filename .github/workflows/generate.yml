@@ -23,6 +23,14 @@ jobs:
                   path: generate/language.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
+            - name: 生成所有语言卡片
+              uses: readme-tools/github-readme-stats-action@v1
+              with:
+                  card: top-langs
+                  options: username=${{ github.repository_owner }}&hide_border=true&layout=compact&langs_count=20&theme=radical&card_width=800
+                  path: generate/all_language.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
             - name: 生成 Github 状态卡片
               uses: readme-tools/github-readme-stats-action@v1
               with:
