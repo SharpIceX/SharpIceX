@@ -27,7 +27,7 @@ jobs:
               uses: readme-tools/github-readme-stats-action@v1
               with:
                   card: top-langs
-                  options: username=${{ github.repository_owner }}&hide_border=true&layout=compact&langs_count=20&theme=radical&card_width=800
+                  options: username=${{ github.repository_owner }}&hide_border=true&layout=compact&langs_count=20&theme=radical&card_width=350
                   path: generate/all_language.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
