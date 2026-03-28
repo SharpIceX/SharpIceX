@@ -56,16 +56,16 @@
 
 <div align="center">
 
-|                    Plan                     |     Status      |
-| :-----------------------------------------: | :-------------: |
-| ThaumaturgySpectacle Worldbuilding Project  | 🟢 In Progress  |
-| Todd's Avali Lore Guide V1.7 简体中文本地化 | 🟢 In Progress  |
-|                 Nuxt Nexus                  | 🟢 In Progress  |
-|    CustomPlayerModels Mod 简体中文本地化    | 🟡 Following Up |
-| Minecraft IceAndFire ATM Compatibility Mod  | 🟡 Following Up |
-|        Minecraft Avali Variants Mod         |    ⚪ Draft     |
-|         Open Character License 1.0          |    ⚪ Draft     |
-|         KDE Project 简体中文本地化          |  🔴 Postponed   |
+|                                                       Plan                                                       |     Status      |
+| :--------------------------------------------------------------------------------------------------------------: | :-------------: |
+|         [ThaumaturgySpectacle Worldbuilding Project](https://github.com/SharpIceX/ThaumaturgySpectacle)          | 🟢 In Progress  |
+| [Todd's Avali Lore Guide V1.7 简体中文本地化](https://github.com/SharpIceX/Todd-s-Avali-Lore-Guide-V1.7_chinese) | 🟢 In Progress  |
+|                              [Nuxt Nexus](https://github.com/SharpIceX/nuxt-nexus)                               | 🟢 In Progress  |
+|             [CustomPlayerModels Mod 简体中文本地化](https://github.com/SharpIceX/CustomPlayerModels)             | 🟡 Following Up |
+|     [Minecraft IceAndFire ATM Compatibility Mod](https://github.com/SharpIceX/IceAndFire-ATM-Compatibility)      | 🟡 Following Up |
+|                 [Minecraft Avali Variants Mod](https://github.com/SharpIceX/Avali-Variants-Mod)                  |    ⚪ Draft     |
+|                        [Open Character License 1.0](https://github.com/SharpIceX/license)                        |    ⚪ Draft     |
+|                                            KDE Project 简体中文本地化                                            |  🔴 Postponed   |
 
 </div>
 
