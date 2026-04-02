@@ -252,7 +252,7 @@
           y="0"
           width="10.01"
           height="8"
-          fill="#f1e05a"
+          fill="#41b883"
         />
       
         <rect
@@ -262,7 +262,7 @@
           y="0"
           width="10.01"
           height="8"
-          fill="#41b883"
+          fill="#f1e05a"
         />
       
         <rect
@@ -413,16 +413,16 @@
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 0.00%
+        Vue 0.00%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#41b883" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 0.00%
+        JavaScript 0.00%
       </text>
     </g>
   </g><g transform="translate(0, 100)">
