@@ -13,7 +13,8 @@
 
 👋 Welcome to my GitHub profile!
 
-🧭 I'm from China—**锐冰** is my Chinese name, and **SharpIce** is my English name.
+🧭 I'm from China—**锐冰** is my Chinese name, and **SharpIce** is my English
+name.
 
 ⚡️ I'm an open-source volunteer who loves cute artwork and all things tech.
 
@@ -46,7 +47,7 @@
 ## 💬 Find Me At
 
 - [My Website](https://sharpice.top)
-- Discord: `.sharpice`**(Note the period at the beginning)** or [click here to discord app](https://discord.com/users/650534063492431891)
+- Discord: `.sharpice` **(Note the period at the beginning)** or [click here to discord app](https://discord.com/users/650534063492431891)
 
 ---
 
@@ -60,7 +61,8 @@
 | :--------------------------------------------------------------------------------------------------------------: | :--------------------: |
 |         [ThaumaturgySpectacle Worldbuilding Project](https://github.com/SharpIceX/ThaumaturgySpectacle)          |     🟢 In Progress     |
 | [Todd's Avali Lore Guide V1.7 简体中文本地化](https://github.com/SharpIceX/Todd-s-Avali-Lore-Guide-V1.7_chinese) |     🟢 In Progress     |
-|                              [Nuxt Nexus](https://github.com/SharpIceX/nuxt-nexus)                               |     🟢 In Progress     |
+|                             [秋云思·碳](https://github.com/SharpIceX/Curasea-Carbon)                             |     🟢 In Progress     |
+|                              [Nuxt Nexus](https://github.com/SharpIceX/nuxt-nexus)                               |    🟡 Following Up     |
 |             [CustomPlayerModels Mod 简体中文本地化](https://github.com/SharpIceX/CustomPlayerModels)             |    🟡 Following Up     |
 |     [Minecraft IceAndFire ATM Compatibility Mod](https://github.com/SharpIceX/IceAndFire-ATM-Compatibility)      |    🟡 Following Up     |
 |                 [Minecraft Avali Variants Mod](https://github.com/SharpIceX/Avali-Variants-Mod)                  |        ⚪ Draft        |
@@ -76,7 +78,8 @@
 ### JAR Signing (KeyStore)
 
 - KeyStore SHA-1: `0F:68:6D:99:D2:17:BC:4F:AF:29:61:F1:28:EA:20:E5:C0:DC:F5:F8`
-- KeyStore SHA-256: `98:53:9C:BB:1C:C6:D7:E9:70:C7:4A:AA:E2:E7:F7:90:3F:66:85:21:5B:07:6A:7E:20:E4:5F:FD:29:A4:87:2C`
+- KeyStore SHA-256:
+  `98:53:9C:BB:1C:C6:D7:E9:70:C7:4A:AA:E2:E7:F7:90:3F:66:85:21:5B:07:6A:7E:20:E4:5F:FD:29:A4:87:2C`
 
 ### GnuPG / PGP
 
