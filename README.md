@@ -61,7 +61,6 @@ name.
 | :--------------------------------------------------------------------------------------------------------------: | :--------------------: |
 |         [ThaumaturgySpectacle Worldbuilding Project](https://github.com/SharpIceX/ThaumaturgySpectacle)          |     🟢 In Progress     |
 | [Todd's Avali Lore Guide V1.7 简体中文本地化](https://github.com/SharpIceX/Todd-s-Avali-Lore-Guide-V1.7_chinese) |     🟢 In Progress     |
-|                             [秋云思·碳](https://github.com/SharpIceX/Curasea-Carbon)                             |     🟢 In Progress     |
 |                              [Nuxt Nexus](https://github.com/SharpIceX/nuxt-nexus)                               |    🟡 Following Up     |
 |             [CustomPlayerModels Mod 简体中文本地化](https://github.com/SharpIceX/CustomPlayerModels)             |    🟡 Following Up     |
 |     [Minecraft IceAndFire ATM Compatibility Mod](https://github.com/SharpIceX/IceAndFire-ATM-Compatibility)      |    🟡 Following Up     |
