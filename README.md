@@ -24,8 +24,8 @@ name.
 
 ### Professional / Intermediate
 
-- Languages: TypeScript, JavaScript, Node.js
-- Frameworks: Nuxt.js, Vue.js
+- Languages: TypeScript, JavaScript
+- Frameworks: Nuxt.js, Vue.js, Node.js
 - OS: Linux
 
 ### Competent / Familiar
