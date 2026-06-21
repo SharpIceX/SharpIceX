@@ -31,8 +31,6 @@ name.
 ### Competent / Familiar
 
 - C#
-- Java
-- Python
 
 ### Newbie
 
@@ -41,6 +39,8 @@ name.
 ### Grave Property
 
 - Lua
+- Java
+- Python
 
 ---
 
