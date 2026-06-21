@@ -46,7 +46,7 @@ name.
 
 ## 💬 Find Me At
 
-- [My Website](https://sharpice.top)
+- [My Website](https://avali.top)
 - Discord: `.sharpice` **(Note the period at the beginning)** or [click here to discord app](https://discord.com/users/650534063492431891)
 
 ---
