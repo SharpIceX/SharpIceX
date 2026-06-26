@@ -30,7 +30,7 @@ name.
 
 ### Competent / Familiar
 
-- C#
+- Null
 
 ### Newbie
 
@@ -38,6 +38,7 @@ name.
 
 ### Grave Property
 
+- C#
 - Lua
 - Java
 - Python
