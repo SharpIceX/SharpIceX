@@ -32,7 +32,7 @@
 ### Competent / Familiar
 
 - Blender
-- Reverse engineering (I use it to adapt to some black-box applications).
+- Reverse engineering (I use it to adapt to some black-box applications)
 
 ### Newbie
 
