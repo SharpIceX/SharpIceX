@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 MD041 MD045 -->
+<!-- markdownlint-disable MD033 MD045 MD041 -->
 
 <p align="center">
     <a href="https://github.com/SharpIceX">
@@ -7,55 +7,51 @@
     <a href="https://github.com/SharpIceX">
       <img height="200" align="center" src="./generate/language.svg" />
     </a>
+    <br>
+    <a href="https://codetime.dev">
+      <img src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D27298" alt="CodeTime Badge" />
+    </a>
 </p>
-
----
 
 👋 Welcome to my GitHub profile!
 
-🧭 I'm from China—**锐冰** is my Chinese name, and **SharpIce** is my English
-name.
+🧭 I'm from China—**锐冰** is my Chinese name, and **SharpIce** is my English name.
 
-⚡️ I'm an open-source volunteer who loves cute artwork and all things tech.
-
----
+⚡️ I'm an open-source loving independent developer and CG artist. I love cute things and artwork. Most of what I do comes from interest, purely powered by love.
 
 ## 🛠 Tech Stack
 
 ### Professional / Intermediate
 
+- OS: Linux
+- Base: CI/CD, Git
 - Languages: TypeScript, JavaScript
 - Frameworks: Nuxt.js, Vue.js, Node.js
-- OS: Linux
+- Onslaught: Actively adopt new features including drafts. ✔
 
 ### Competent / Familiar
 
-- TailwindCSS、Unocss
+- Blender
 
 ### Newbie
 
-- C#
-- Kotlin
-- Datacom
+- C#, Kotlin
 
 ### Grave Property
 
-- Lua
-- Java
-- Python
+- Unity
+- Lua, Java, Python
+- Datacom(Cisco, Huawei)
+- TailwindCSS, UnoCSS, PostCSS
 
----
+**I can get hands-on with any new tech using just the docs and sample code. Provided it's not a total piece of shit, of course...**
 
 ## 💬 Find Me At
 
 - [My Website](https://avali.top)
 - Discord: `.sharpice` **(Note the period at the beginning)** or [click here to discord app](https://discord.com/users/650534063492431891)
 
----
-
 ## ✏️ Roadmap
-
----
 
 <div align="center">
 
@@ -69,15 +65,12 @@ name.
 
 </div>
 
----
-
 ## 🔐 Verification Fingerprints
 
 ### JAR Signing (KeyStore)
 
 - KeyStore SHA-1: `0F:68:6D:99:D2:17:BC:4F:AF:29:61:F1:28:EA:20:E5:C0:DC:F5:F8`
-- KeyStore SHA-256:
-  `98:53:9C:BB:1C:C6:D7:E9:70:C7:4A:AA:E2:E7:F7:90:3F:66:85:21:5B:07:6A:7E:20:E4:5F:FD:29:A4:87:2C`
+- KeyStore SHA-256: `98:53:9C:BB:1C:C6:D7:E9:70:C7:4A:AA:E2:E7:F7:90:3F:66:85:21:5B:07:6A:7E:20:E4:5F:FD:29:A4:87:2C`
 
 ### GnuPG / PGP
 
@@ -98,5 +91,3 @@ An engineer walked into a café and ordered fried noodles—the café crashed.
 
 Boss told me to disconnect the internet, so I grabbed a pair of scissors and went for it. Now I’m fired. Anyone know why?
 ```
-
-</p>
