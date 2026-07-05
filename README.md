@@ -42,8 +42,6 @@
 - Lua, Java, Python
 - TailwindCSS, UnoCSS, PostCSS
 
-**I can get hands-on with any new tech using just the docs and sample code. Provided it's not a total piece of shit, of course...**
-
 ## 💬 Find Me At
 
 - [My Website](https://avali.top)
