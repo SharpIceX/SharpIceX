@@ -75,6 +75,37 @@
 - Fingerprint: `368D2B2EFB114C9D28576F01E33A3550961E333C`
 - Public Key: [github.com/sharpIceX.gpg](https://github.com/sharpIceX.gpg)
 
+### 🎵 Want some music?
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=xkUN_9HFNPg">
+        <img src="https://img.youtube.com/vi/xkUN_9HFNPg/maxresdefault.jpg" width="500" alt="Testify">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=s0K53t4dNyg">
+        <img src="https://img.youtube.com/vi/s0K53t4dNyg/maxresdefault.jpg" width="500" alt="Aegleseeker">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=BJU0E1KHjzk">
+        <img src="https://img.youtube.com/vi/BJU0E1KHjzk/maxresdefault.jpg" width="500" alt="Cryptarithm">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=Z-OMz0rVQd0">
+        <img src="https://img.youtube.com/vi/Z-OMz0rVQd0/maxresdefault.jpg" width="500" alt="Distorted Fate">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ```text
 手持两把锟斤拷，口中疾呼烫烫烫；脚踏千朵屯屯屯，笑看万物锘锘锘。
 
