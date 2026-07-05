@@ -27,7 +27,6 @@
 - Base: CI/CD, Git
 - Languages: TypeScript, JavaScript
 - Frameworks: Nuxt.js, Vue.js, Node.js
-- Onslaught: Actively adopt new features including drafts. ✔
 
 ### Competent / Familiar
 
@@ -40,9 +39,7 @@
 
 ### Grave Property
 
-- Unity
 - Lua, Java, Python
-- Datacom(Cisco, Huawei)
 - TailwindCSS, UnoCSS, PostCSS
 
 **I can get hands-on with any new tech using just the docs and sample code. Provided it's not a total piece of shit, of course...**
