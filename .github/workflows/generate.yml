@@ -13,7 +13,7 @@ jobs:
 
         steps:
             - name: 迁出代码
-              uses: actions/checkout@v4
+              uses: actions/checkout@v7
 
             - name: 生成语言卡片
               uses: stats-organization/github-readme-stats-action@v2
@@ -27,7 +27,7 @@ jobs:
               uses: stats-organization/github-readme-stats-action@v2
               with:
                   card: stats
-                  options: username=${{ github.repository_owner }}&hide_border=true&show_icons=true&theme=radical&hide_title=true&count_private=false
+                  options: username=${{ github.repository_owner }}&hide_border=true&show_icons=true&theme=radical&hide_title=true
                   path: generate/status.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
