@@ -16,7 +16,7 @@ jobs:
               uses: actions/checkout@v4
 
             - name: 生成语言卡片
-              uses: readme-tools/github-readme-stats-action@v1
+              uses: stats-organization/github-readme-stats-action@v2
               with:
                   card: top-langs
                   options: username=${{ github.repository_owner }}&hide_border=true&layout=compact&langs_count=10&theme=radical&card_width=350&hide=ejs&exclude_repo=End,kernel_huawei_hi3660_lon_hm
@@ -24,7 +24,7 @@ jobs:
                   token: ${{ secrets.GITHUB_TOKEN }}
 
             - name: 生成 Github 状态卡片
-              uses: readme-tools/github-readme-stats-action@v1
+              uses: stats-organization/github-readme-stats-action@v2
               with:
                   card: stats
                   options: username=${{ github.repository_owner }}&hide_border=true&show_icons=true&theme=radical&hide_title=true
