@@ -40,7 +40,7 @@
 ### Grave Property
 
 - Lua, Java, Python
-- TailwindCSS, UnoCSS, PostCSS
+- TailwindCSS, UnoCSS
 
 ## 💬 Find Me At
 
