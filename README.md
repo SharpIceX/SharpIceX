@@ -9,7 +9,7 @@
     </a>
     <br>
     <a href="https://codetime.dev">
-      <img src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D27298" alt="CodeTime Badge" />
+      <img src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D27298" alt="CodeTime Badge" />
     </a>
 </p>
 
