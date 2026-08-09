@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">&#38160;&#20912; SharpIce&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 22, Total Commits  (last year) : 498, Total PRs: 44, Total Issues: 62, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 22, Total Commits  (last year) : 498, Total PRs: 44, Total Issues: 63, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 129.17022929142277;
+        stroke-dashoffset: 129.06757361067633;
       }
     }
   
@@ -193,7 +193,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >62</text>
+      >63</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
