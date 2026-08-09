@@ -73,6 +73,8 @@
 - Fingerprint: `368D 2B2E FB11 4C9D 2857  6F01 E33A 3550 961E 333C`
 - Public Key: [github.com/sharpIceX.gpg](https://github.com/sharpIceX.gpg)
 
+<details>
+
 ### 🎵 Want some music?
 
 <table border="0">
@@ -118,3 +120,5 @@ An engineer walked into a café and ordered fried noodles—the café crashed.
 
 Boss told me to disconnect the internet, so I grabbed a pair of scissors and went for it. Now I’m fired. Anyone know why?
 ```
+
+</details>
