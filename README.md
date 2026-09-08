@@ -30,7 +30,8 @@
 
 ### Competent / Familiar
 
-- Blender
+- Blender (Technical Artist)
+  - Rigging, VFX, Procedural Generation, Asset Integration & Assembly
 
 ### Newbie
 
