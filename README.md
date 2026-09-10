@@ -1,5 +1,7 @@
 <!-- markdownlint-disable MD033 MD045 MD041 -->
 
+**You ought to write your own code. When utilizing AI for code generation, you must engage in critical thinking rather than relying on AI to think on your behalf. Failing to do so leaves you unaware of what your code actually does, resulting in disastrous implications for future maintainability.**
+
 <p align="center">
     <a href="https://github.com/SharpIceX">
       <img height="200" align="center" src="./generate/status.svg" />
