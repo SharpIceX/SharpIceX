@@ -56,7 +56,7 @@
 |                                                                  Plan                                                                  |     Status      |
 | :------------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
 | [Argon Nexus Center(My personal website, blog, fictional worldview wiki, and novels)](https://github.com/SharpIceX/Argon-Nexus-Center) | 🟢 In Progress  |
-|            [Todd's Avali Lore Guide V1.7 简体中文本地化](https://github.com/SharpIceX/Todd-s-Avali-Lore-Guide-V1.7_chinese)            | 🟢 In Progress  |
+|            [Todd's Avali Lore Guide V1.7 简体中文本地化](https://github.com/SharpIceX/Todd-s-Avali-Lore-Guide-V1.7_chinese)            |  🔴 Postponed   |
 |                                         [Nuxt Nexus](https://github.com/SharpIceX/nuxt-nexus)                                          | 🟡 Following Up |
 |                        [CustomPlayerModels Mod 简体中文本地化](https://github.com/SharpIceX/CustomPlayerModels)                        | 🟡 Following Up |
 |                                                       KDE Project 简体中文本地化                                                       |  🔴 Postponed   |
