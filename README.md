@@ -72,7 +72,7 @@
 
 ### GnuPG / PGP
 
-- Fingerprint: `368D 2B2E FB11 4C9D 2857  6F01 E33A 3550 961E 333C`
+- Fingerprint: `8530 B69C 80AD 4837 EAA6  D194 D701 8CC9 2444 C7B0`
 - Public Key: [github.com/sharpIceX.gpg](https://github.com/sharpIceX.gpg)
 
 <details>
