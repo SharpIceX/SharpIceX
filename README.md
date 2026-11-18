@@ -56,10 +56,7 @@
 |                                                                  Plan                                                                  |     Status      |
 | :------------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
 | [Argon Nexus Center(My personal website, blog, fictional worldview wiki, and novels)](https://github.com/SharpIceX/Argon-Nexus-Center) | 🟢 In Progress  |
-|                                                       AvaliNexus 简体中文本地化                                                        | 🟢 In Progress  |
-|            [Todd's Avali Lore Guide V1.7 简体中文本地化](https://github.com/SharpIceX/Todd-s-Avali-Lore-Guide-V1.7_chinese)            |  🔴 Postponed   |
 |                                         [Nuxt Nexus](https://github.com/SharpIceX/nuxt-nexus)                                          | 🟡 Following Up |
-|                        [CustomPlayerModels Mod 简体中文本地化](https://github.com/SharpIceX/CustomPlayerModels)                        | 🟡 Following Up |
 
 </div>
 
@@ -74,53 +71,3 @@
 
 - Fingerprint: `8530 B69C 80AD 4837 EAA6  D194 D701 8CC9 2444 C7B0`
 - Public Key: [github.com/sharpIceX.gpg](https://github.com/sharpIceX.gpg)
-
-<details>
-
-### 🎵 Want some music?
-
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=xkUN_9HFNPg">
-        <img src="https://img.youtube.com/vi/xkUN_9HFNPg/maxresdefault.jpg" width="500" alt="Testify">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=s0K53t4dNyg">
-        <img src="https://img.youtube.com/vi/s0K53t4dNyg/maxresdefault.jpg" width="500" alt="Aegleseeker">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=BJU0E1KHjzk">
-        <img src="https://img.youtube.com/vi/BJU0E1KHjzk/maxresdefault.jpg" width="500" alt="Cryptarithm">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=Z-OMz0rVQd0">
-        <img src="https://img.youtube.com/vi/Z-OMz0rVQd0/maxresdefault.jpg" width="500" alt="Distorted Fate">
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-```text
-手持两把锟斤拷，口中疾呼烫烫烫；脚踏千朵屯屯屯，笑看万物锘锘锘。
-
-Two 锟斤拷 clasped firm within my hands,
-I shout the frantic refrain “烫烫烫”;
-Upon a thousand 屯屯屯 blooms I stride,
-and laugh to see the world go 锘锘锘.
-
-一位工程师走进咖啡馆点了一份炒面，咖啡馆崩溃了
-
-An engineer walked into a café and ordered fried noodles—the café crashed.
-
-Boss told me to disconnect the internet, so I grabbed a pair of scissors and went for it. Now I’m fired. Anyone know why?
-```
-
-</details>
