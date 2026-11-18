@@ -21,6 +21,8 @@
 
 ⚡️ I'm an open-source loving independent developer and CG artist. I love cute things and artwork. Most of what I do comes from interest, purely powered by love.
 
+🌐 My Website: [avali.top](https://avali.top)
+
 ## 🛠 Tech Stack
 
 ### Professional / Intermediate
@@ -43,11 +45,6 @@
 
 - Lua, Java, Python
 - TailwindCSS, UnoCSS
-
-## 💬 Find Me At
-
-- [My Website](https://avali.top)
-- Discord: `.sharpice` **(Note the period at the beginning)** or [click here to discord app](https://discord.com/users/650534063492431891)
 
 ## ✏️ Roadmap
 
