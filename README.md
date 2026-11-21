@@ -3,15 +3,12 @@
 **You ought to write your own code. When utilizing AI for code generation, you must engage in critical thinking rather than relying on AI to think on your behalf. Failing to do so leaves you unaware of what your code actually does, resulting in disastrous implications for future maintainability.**
 
 <p align="center">
-    <a href="https://github.com/SharpIceX">
-      <img height="200" align="center" src="./generate/status.svg" />
-    </a>
-    <a href="https://github.com/SharpIceX">
-      <img height="200" align="center" src="./generate/language.svg" />
-    </a>
-    <br>
     <a href="https://codetime.dev">
       <img src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D27298" alt="CodeTime Badge" />
+    </a>
+    <br>
+    <a href="https://github.com/SharpIceX">
+      <img align="center" src="./generate/language.svg" />
     </a>
 </p>
 
